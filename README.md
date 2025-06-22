@@ -6,9 +6,9 @@ Se asume que el repositorio se crea en la carpeta principal del proyecto del jue
 
 El archivo `.gitignore` sólo es recomendado para proyectos colaborativos.
 
-El archivo `.gitattributes` configura los directorios que serán manejados por LSF.
+El archivo `.gitattributes` configura los directorios que serán manejados por LFS.
 
-Activar LSF en Git:
+Activar LFS en Git:
 
 ```
 git lfs install
