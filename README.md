@@ -8,7 +8,7 @@ El archivo `.gitignore` sólo es recomendado para proyectos colaborativos.
 
 El archivo `.gitattributes` configura los directorios que serán manejados por LSF.
 
-Actvivar LSF en Git:
+Activar LSF en Git:
 
 ```
 git lfs install
