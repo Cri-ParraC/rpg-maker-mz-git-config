@@ -2,7 +2,7 @@
 
 Pequeño snippet con configuraciones base para realizar control de versiones a un proyecto de RPG Maker MZ.
 
-Se asume que el repositorio se crea en la carpeta principal del proyecto del juego.
+Se asume que el repositorio se inicia en el directorio principal del proyecto.
 
 El archivo `.gitignore` sólo es recomendado para proyectos colaborativos.
 

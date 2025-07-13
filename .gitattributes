@@ -1,6 +1,8 @@
 audio/** filter=lfs diff=lfs merge=lfs -text
 effects/** filter=lfs diff=lfs merge=lfs -text
-img/** filter=lfs diff=lfs merge=lfs -text
-movies/** filter=lfs diff=lfs merge=lfs -text
 fonts/** filter=lfs diff=lfs merge=lfs -text
 icon/** filter=lfs diff=lfs merge=lfs -text
+img/** filter=lfs diff=lfs merge=lfs -text
+movies/** filter=lfs diff=lfs merge=lfs -text
+
+* text=auto eol=lf
